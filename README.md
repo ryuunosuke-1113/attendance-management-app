@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 デモURL
-（GitHub PagesのURLをここに貼る）
+https://ryuunosuke-1113.github.io/attendance-management-app/
 
 ---
 
